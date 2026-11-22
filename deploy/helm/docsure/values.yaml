@@ -1,0 +1,14 @@
+image:
+  repository: docsure
+  tag: latest
+  pullPolicy: IfNotPresent
+
+ollamaUrl: "http://ollama.default.svc.cluster.local:11434"
+
+api:
+  replicas: 1
+  servicePort: 8002
+
+dashboard:
+  replicas: 1
+  servicePort: 8503

@@ -1,0 +1,6 @@
+INVOICE
+
+Invoice Number: INV-UNVERIFIED-88
+Total: $300.00
+
+Additional customer and date details are pending verification.

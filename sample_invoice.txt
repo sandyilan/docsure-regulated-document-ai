@@ -1,0 +1,10 @@
+NORTHSTAR HEALTH SUPPLIES
+INVOICE
+
+Invoice Number: INV-2026-0042
+Customer: Northstar Health
+Date: 2026-11-22
+Total: $1,250.00
+
+Description: Medical supply delivery for November 2026.
+Payment terms: Net 30 days.

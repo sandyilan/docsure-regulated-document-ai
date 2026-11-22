@@ -1,0 +1,5 @@
+fastapi[standard]
+streamlit
+requests
+python-dotenv
+pymupdf
